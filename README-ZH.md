@@ -25,8 +25,6 @@
 ## 环境要求
 - PHP >= 7.1
 
-> 如果你的PHP版本还停留在PHP5，或者不会使用Composer,你可以选择使用phpCrawler3,phpCrawler3支持php5.3以及手动安装。
-phpCrawler3 文档:http://v3.phpCrawler.cc
 
 ## 安装
 通过Composer安装:
