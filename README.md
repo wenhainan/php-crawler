@@ -30,7 +30,7 @@ Through plug-ins you can easily implement things like:
 ## Installation
 By Composer installation:
 ```
-composer require wenhainan/phpCrawler
+composer require wenhainan/php-crawler
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-    "name": "wenhainan/phpCrawler",
+    "name": "wenhainan/php-crawler",
     "description": "Simple, elegant, extensible PHP Web Scraper (crawler/spider),Use the css3 dom selector,Based on phpQuery! 简洁、优雅、可扩展的PHP采集工具(爬虫)，基于phpQuery。",
     "keywords":["php采集器","phpCrawler","Crawler","php采集器","QueryList","phpQuery","spider","PHP collection","Spider collection"],
     "homepage": "http://www.waytomilky.com",

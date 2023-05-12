@@ -31,7 +31,7 @@ phpCrawler3 文档:http://v3.phpCrawler.cc
 ## 安装
 通过Composer安装:
 ```
-composer require wenhainan/phpCrawler
+composer require wenhainan/php-crawler
 ```
 
 ## 使用
