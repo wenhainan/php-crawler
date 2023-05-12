@@ -1,0 +1,40 @@
+{
+    "name": "wenhainan/phpCrawler",
+    "description": "Simple, elegant, extensible PHP Web Scraper (crawler/spider),Use the css3 dom selector,Based on phpQuery! 简洁、优雅、可扩展的PHP采集工具(爬虫)，基于phpQuery。",
+    "keywords":["php采集器","phpCrawler","Crawler","php采集器","QueryList","phpQuery","spider","PHP collection","Spider collection"],
+    "homepage": "http://www.waytomilky.com",
+    "require": {
+        "PHP":">=7.1",
+        "jaeger/phpquery-single": "^1",
+        "jaeger/g-http": "^1.1",
+        "ext-dom": "*",
+        "tightenco/collect": ">5.0"
+    },
+    "suggest":{
+
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wenhainan",
+            "email": "whndeweilai@163.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "phpCrawler\\":"src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^3.3",
+        "phpunit/phpunit": "^8.5"
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit"
+    }
+}
